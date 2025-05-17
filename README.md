@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanKovalenQA
-- 👀 I’m interested in Quality Assurance
-- 🌱 I’m currently learning Python
+
+
 
 
 <!---
